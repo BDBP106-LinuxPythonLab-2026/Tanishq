@@ -1,0 +1,3 @@
+question1 explaination
+
+in the newdir example , using 1> the standard output went to the present file not the error but using 2> only the error was shown in the files not present not the output
