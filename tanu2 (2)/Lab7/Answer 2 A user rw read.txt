@@ -1,0 +1,41 @@
+Answer 2
+A) user= rw
+      read + write (6)
+   Group= rw
+      read + write (6)
+   other=r
+       read (4)
+        
+        PERMISSION=664
+        
+  B) Default file permission= 666 - 002
+7                              =664
+      Default directory permission= 777 - 002
+                              = 775
+        
+  C) User = 6
+     Group = 6
+     other = 4
+           overall permission = 664
+           
+   D) User = 7
+      group = 6
+      other = 5
+       octal value = 765
+       
+    E) The copied file has the same permission (775)
+        copying creates a new file but normally preserve permission
+        
+    F) octal permission
+    
+         User= 7
+         group= 6
+         others= 4
+          
+         the directory permission becomes 664
+         The file inside does not inherit the new directory permission
+         its permission remains unchanged
+         
+     G) Moving the file does not change its permission.
+        the file keeps the same permission.
+        
