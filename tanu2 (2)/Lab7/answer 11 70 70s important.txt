@@ -1,9 +1,0 @@
-answer 11 
-:70,70s/important/critical
-
-answer 13:
-"d w" till the text gets deleted 
-
-answer 12:
-current line - 70
-shift +g to jump to the end of the line
